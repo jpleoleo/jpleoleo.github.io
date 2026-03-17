@@ -38,8 +38,8 @@
             "transitionStart": "animate__bounceIn",
             "transitionEnd": "animate__fadeOutRight",
             "typeVars": {
-                "x": "0px",
-                "y": "0px",
+                "x": "184px",
+                "y": "254px",
                 "width": "100%",
                 "height": "100%",
                 "border": "0px solid transperant",
