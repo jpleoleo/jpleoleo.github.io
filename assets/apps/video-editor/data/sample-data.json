@@ -54,7 +54,13 @@
         "transform": "none",
         "visibility": "visible",
         "filterOpacity": 100,
+        "filterBlur": 0,
         "filterGrayscale": 0,
+        "filterBrightness": 100,
+        "filterContrast": 100,
+        "filterSaturate": 100,
+        "filterHueRotate": 0,
+        "filterInvert": 0,
         "volume": 1,
         "mute": false
       },
@@ -92,11 +98,13 @@
         "transform": "none",
         "visibility": "visible",
         "filterOpacity": 100,
+        "filterBlur": 0,
         "filterGrayscale": 0,
         "filterBrightness": 100,
         "filterContrast": 100,
         "filterSaturate": 100,
         "filterHueRotate": 0,
+        "filterInvert": 0,
         "volume": 1,
         "mute": true
       }
@@ -147,7 +155,13 @@
         "transform": "none",
         "visibility": "visible",
         "filterOpacity": 100,
-        "filterGrayscale": 0
+        "filterBlur": 0,
+        "filterGrayscale": 0,
+        "filterBrightness": 100,
+        "filterContrast": 100,
+        "filterSaturate": 100,
+        "filterHueRotate": 0,
+        "filterInvert": 0
       },
       "color": "#53FC01"
     },
@@ -195,7 +209,13 @@
         "transform": "none",
         "visibility": "visible",
         "filterOpacity": 100,
-        "filterGrayscale": 0
+        "filterBlur": 0,
+        "filterGrayscale": 0,
+        "filterBrightness": 100,
+        "filterContrast": 100,
+        "filterSaturate": 100,
+        "filterHueRotate": 0,
+        "filterInvert": 0
       },
       "color": "#C4AB07"
     },
@@ -243,7 +263,13 @@
         "transform": "none",
         "visibility": "visible",
         "filterOpacity": 100,
-        "filterGrayscale": 0
+        "filterBlur": 0,
+        "filterGrayscale": 0,
+        "filterBrightness": 100,
+        "filterContrast": 100,
+        "filterSaturate": 100,
+        "filterHueRotate": 0,
+        "filterInvert": 0
       },
       "color": "#56F6E0"
     },
@@ -291,7 +317,13 @@
         "transform": "none",
         "visibility": "visible",
         "filterOpacity": 100,
-        "filterGrayscale": 0
+        "filterBlur": 0,
+        "filterGrayscale": 0,
+        "filterBrightness": 100,
+        "filterContrast": 100,
+        "filterSaturate": 100,
+        "filterHueRotate": 0,
+        "filterInvert": 0
       },
       "color": "#BF4CE9"
     },
@@ -339,7 +371,13 @@
         "transform": "none",
         "visibility": "visible",
         "filterOpacity": 100,
-        "filterGrayscale": 0
+        "filterBlur": 0,
+        "filterGrayscale": 0,
+        "filterBrightness": 100,
+        "filterContrast": 100,
+        "filterSaturate": 100,
+        "filterHueRotate": 0,
+        "filterInvert": 0
       },
       "color": "#216615"
     },
@@ -387,7 +425,13 @@
         "transform": "none",
         "visibility": "visible",
         "filterOpacity": 100,
-        "filterGrayscale": 0
+        "filterBlur": 0,
+        "filterGrayscale": 0,
+        "filterBrightness": 100,
+        "filterContrast": 100,
+        "filterSaturate": 100,
+        "filterHueRotate": 0,
+        "filterInvert": 0
       },
       "color": "#758D04"
     },
@@ -435,7 +479,13 @@
         "transform": "none",
         "visibility": "visible",
         "filterOpacity": 100,
-        "filterGrayscale": 0
+        "filterBlur": 0,
+        "filterGrayscale": 0,
+        "filterBrightness": 100,
+        "filterContrast": 100,
+        "filterSaturate": 100,
+        "filterHueRotate": 0,
+        "filterInvert": 0
       },
       "color": "#A21994"
     },
@@ -483,7 +533,13 @@
         "transform": "none",
         "visibility": "visible",
         "filterOpacity": 100,
-        "filterGrayscale": 0
+        "filterBlur": 0,
+        "filterGrayscale": 0,
+        "filterBrightness": 100,
+        "filterContrast": 100,
+        "filterSaturate": 100,
+        "filterHueRotate": 0,
+        "filterInvert": 0
       },
       "color": "#805978"
     },
@@ -531,7 +587,13 @@
         "transform": "none",
         "visibility": "visible",
         "filterOpacity": 100,
-        "filterGrayscale": 0
+        "filterBlur": 0,
+        "filterGrayscale": 0,
+        "filterBrightness": 100,
+        "filterContrast": 100,
+        "filterSaturate": 100,
+        "filterHueRotate": 0,
+        "filterInvert": 0
       },
       "color": "#AB9865"
     },
@@ -579,7 +641,13 @@
         "transform": "none",
         "visibility": "visible",
         "filterOpacity": 100,
-        "filterGrayscale": 0
+        "filterBlur": 0,
+        "filterGrayscale": 0,
+        "filterBrightness": 100,
+        "filterContrast": 100,
+        "filterSaturate": 100,
+        "filterHueRotate": 0,
+        "filterInvert": 0
       },
       "color": "#BA4A81"
     },
@@ -627,7 +695,13 @@
         "transform": "none",
         "visibility": "visible",
         "filterOpacity": 100,
-        "filterGrayscale": 0
+        "filterBlur": 0,
+        "filterGrayscale": 0,
+        "filterBrightness": 100,
+        "filterContrast": 100,
+        "filterSaturate": 100,
+        "filterHueRotate": 0,
+        "filterInvert": 0
       },
       "color": "#C7410F"
     },
@@ -675,7 +749,13 @@
         "transform": "none",
         "visibility": "visible",
         "filterOpacity": 100,
-        "filterGrayscale": 0
+        "filterBlur": 0,
+        "filterGrayscale": 0,
+        "filterBrightness": 100,
+        "filterContrast": 100,
+        "filterSaturate": 100,
+        "filterHueRotate": 0,
+        "filterInvert": 0
       },
       "color": "#829FF3"
     },
@@ -723,7 +803,13 @@
         "transform": "none",
         "visibility": "visible",
         "filterOpacity": 100,
-        "filterGrayscale": 0
+        "filterBlur": 0,
+        "filterGrayscale": 0,
+        "filterBrightness": 100,
+        "filterContrast": 100,
+        "filterSaturate": 100,
+        "filterHueRotate": 0,
+        "filterInvert": 0
       },
       "color": "#466F5C"
     },
@@ -771,7 +857,13 @@
         "transform": "none",
         "visibility": "visible",
         "filterOpacity": 100,
-        "filterGrayscale": 0
+        "filterBlur": 0,
+        "filterGrayscale": 0,
+        "filterBrightness": 100,
+        "filterContrast": 100,
+        "filterSaturate": 100,
+        "filterHueRotate": 0,
+        "filterInvert": 0
       },
       "color": "#7BAF00"
     }
