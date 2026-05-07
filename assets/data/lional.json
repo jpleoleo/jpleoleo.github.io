@@ -1,12 +1,12 @@
 {
     "name": "Lional. J.",
     "iam": [
-        "FrontEnd/UI Architect, FrontEnd/UI Engineer, Fullstack Engineer, MEAN/MERN Stack Engineer, Angular/React/Vue/Node Expert, Flutter/Ionic/Reactive-Native Expert, Hybrid Mobile App Developer"
+        "FrontEnd/UI Architect, FrontEnd/UI Engineer, Fullstack Engineer, MEAN/MERN Stack Engineer, Angular/React/Vue/NodeJS Expert, Flutter/Ionic/Reactive-Native Expert, Hybrid Mobile App Developer"
     ],
     "about": {
         "title": "About",
         "details": [
-            "7+ years of Senior Frontend Architect, 8+ years of Full Stack Development with Hybrid App Development and 12+ years of Frontend Engineer with overall 14+ years of experience designing and delivering scalable web, hybrid, and cross-platform applications. Expert in translating complex business requirements into intuitive, user-centered interfaces with a focus on performance, accessibility, and cross-platform compatibility. Proficient in React, Angular, Vue, TypeScript, JavaScript (ES6+), HTML5, CSS3, and modern UI frameworks, with strong experience integrating RESTful and GraphQL APIs. Demonstrated success in leading front-end architecture, mentoring cross-functional teams, and driving best practices in component-based development, state management, CI/CD, and code optimization. Adept at collaborating with product managers, UX/UI designers, frontend and backend teams to deliver elegant, maintainable, and impactful solutions. Passionate about emerging web technologies, performance tuning, and delivering pixel-perfect, responsive designs that elevate user experience."
+            "Principal Frontend Architect with 14+ years of experience building scalable enterprise web and hybrid applications using Angular, React.js, Vue.js, Node.js, Flutter, and cloud-native technologies. Specialized in frontend architecture, microfrontend systems, performance optimization, reusable component platforms, and leading distributed engineering teams across banking, SaaS, travel, media, and e-learning domains."
         ],
         "subTitle": "Nothing impossible to my boundaries",
         "description": "I'm looking for a challenging environment where I can push boundaries and build impactful solutions. You don't need a perfect plan—just share your vision, and I'll turn it into a real, working product using web technologies. I thrive on solving complex problems and making the “impossible” possible. If that's what you need, you're in the right place.",
@@ -280,7 +280,7 @@
     },
     "resume": {
         "title": "Resume",
-        "details": "Technically Sophisticated Professional with nearly 14+ years of experience in areas of Software Developing and Programming in web environment. Have Experience in SDLC and SAAS Development more than 7+ year in UI Architectural Platform with various JS Frameworks.",
+        "details": "14+ years building enterprise-scale frontend platforms across banking, SaaS, travel, media, and e-learning domains. Led architecture initiatives using Angular, React, Vue, Flutter, and microfrontend systems for globally distributed engineering teams. Specialized in scalable UI platforms, frontend performance engineering, reusable component systems, and hybrid application architecture.",
         "list": [
             {
                 "icon": "",
@@ -388,6 +388,10 @@
             {
                 "label": "Test",
                 "key": "test"
+            },
+            {
+                "label": "Demo",
+                "key": "demo"
             }
         ],
         "list": [
@@ -420,6 +424,13 @@
                 "href": "https://ic-player.arirt.com/"
             },
             {
+                "appTitle": "GitHub",
+                "imgPath": "assets/img/portfolio/portfolio-14.jpg",
+                "title": "GitHub Profile",
+                "filter": "filter-lib",
+                "href": "https://github.com/wapappdeveloper"
+            },
+            {
                 "appTitle": "ToDo App (Angular)",
                 "imgPath": "assets/img/portfolio/portfolio-7.jpg",
                 "title": "ToDo App Developed in Angular-15",
@@ -445,6 +456,13 @@
                 "imgPath": "assets/img/portfolio/portfolio-12.jpg",
                 "title": "Comparison of JS Frameworks (Angular, React, JS)",
                 "filter": "filter-test",
+                "href": "assets/apps/angular-vs-js-vs-react/index.html"
+            },
+            {
+                "appTitle": "Video Editor Demo",
+                "imgPath": "assets/img/portfolio/portfolio-15.jpg",
+                "title": "Presentation of Video Editor Features",
+                "filter": "filter-demo",
                 "href": "assets/apps/angular-vs-js-vs-react/index.html"
             }
         ]
