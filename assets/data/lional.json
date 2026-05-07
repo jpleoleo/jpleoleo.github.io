@@ -382,10 +382,6 @@
                 "key": "lib"
             },
             {
-                "label": "WEB",
-                "key": "web"
-            },
-            {
                 "label": "Test",
                 "key": "test"
             },
@@ -417,20 +413,6 @@
                 "href": "assets/apps/video-editor/index.html"
             },
             {
-                "appTitle": "Video Streaming Player",
-                "imgPath": "assets/img/portfolio/portfolio-3.jpg",
-                "title": "Web-based video player enabling adaptive, high-quality streaming across devices",
-                "filter": "filter-web",
-                "href": "https://ic-player.arirt.com/"
-            },
-            {
-                "appTitle": "GitHub",
-                "imgPath": "assets/img/portfolio/portfolio-14.jpg",
-                "title": "GitHub Profile",
-                "filter": "filter-lib",
-                "href": "https://github.com/wapappdeveloper"
-            },
-            {
                 "appTitle": "ToDo App (Angular)",
                 "imgPath": "assets/img/portfolio/portfolio-7.jpg",
                 "title": "ToDo App Developed in Angular-15",
@@ -450,6 +432,20 @@
                 "title": "ToDo App Developed in Javascript",
                 "filter": "filter-app",
                 "href": "assets/apps/javascript-todo-app/index.html"
+            },
+            {
+                "appTitle": "Video Streaming Player",
+                "imgPath": "assets/img/portfolio/portfolio-3.jpg",
+                "title": "Web-based video player enabling adaptive, high-quality streaming across devices",
+                "filter": "filter-app",
+                "href": "https://ic-player.arirt.com/"
+            },
+            {
+                "appTitle": "GitHub",
+                "imgPath": "assets/img/portfolio/portfolio-14.jpg",
+                "title": "GitHub Profile",
+                "filter": "filter-lib",
+                "href": "https://github.com/wapappdeveloper"
             },
             {
                 "appTitle": "JS Framework Test",
