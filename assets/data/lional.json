@@ -410,16 +410,16 @@
                 "href": "https://play.google.com/store/apps/details?id=com.arirt.gshop1"
             },
             {
-                "appTitle": "Video Editor",
+                "appTitle": "Youédit App",
                 "imgPath": "assets/img/portfolio/portfolio-13.jpg",
-                "title": "A Video Sequencing and Subtitling Web Application",
+                "title": "Cloud-Based Video Sequencing and Captioning Application",
                 "filter": "filter-app",
                 "href": "assets/apps/video-editor/index.html"
             },
             {
-                "appTitle": "Online Video Streaming Player",
+                "appTitle": "Video Streaming Player",
                 "imgPath": "assets/img/portfolio/portfolio-3.jpg",
-                "title": "Video Player",
+                "title": "Web-based video player enabling adaptive, high-quality streaming across devices",
                 "filter": "filter-web",
                 "href": "https://ic-player.arirt.com/"
             },
@@ -459,11 +459,11 @@
                 "href": "assets/apps/angular-vs-js-vs-react/index.html"
             },
             {
-                "appTitle": "Video Editor Demo",
+                "appTitle": "Youédit App Demo",
                 "imgPath": "assets/img/portfolio/portfolio-15.jpg",
-                "title": "Presentation of Video Editor Features",
+                "title": "Presentation of Youédit App Features",
                 "filter": "filter-demo",
-                "href": "assets/apps/angular-vs-js-vs-react/index.html"
+                "href": "https://youtu.be/Gkuf_f2czMQ?si=I1WW4uBfOvTIO4gc"
             }
         ]
     },
