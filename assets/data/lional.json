@@ -460,6 +460,20 @@
                 "title": "Presentation of Youédit App Features",
                 "filter": "filter-demo",
                 "href": "https://youtu.be/Gkuf_f2czMQ?si=I1WW4uBfOvTIO4gc"
+            },
+            {
+                "appTitle": "JS Framework Comparison Demo",
+                "imgPath": "assets/img/portfolio/portfolio-16.jpg",
+                "title": "Presentation of JS Framework load test",
+                "filter": "filter-demo",
+                "href": "https://youtu.be/YTMrfNvqwIk?si=E_aMjFZL45pZCEYo"
+            },
+            {
+                "appTitle": "Angular Proxy Issue Fix",
+                "imgPath": "assets/img/portfolio/portfolio-17.jpg",
+                "title": "Presentation of Angular proxy issue fix",
+                "filter": "filter-demo",
+                "href": "https://youtu.be/UOUA5LhLocI?si=RnvPPJMhc_IS6J5B"
             }
         ]
     },
